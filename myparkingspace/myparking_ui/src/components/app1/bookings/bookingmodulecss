@@ -1,0 +1,7 @@
+.d_flex div{
+    text-align: center;
+}
+#button{
+    display: flex;
+    justify-content: flex-end;
+  }

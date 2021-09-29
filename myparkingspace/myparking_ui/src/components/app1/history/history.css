@@ -1,0 +1,10 @@
+.container{
+    text-align: left;
+    background-color:white;
+}
+.container-fluid{
+    background-color:white;
+}
+h1{
+    text-align: center;
+}

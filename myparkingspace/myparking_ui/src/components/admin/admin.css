@@ -1,0 +1,11 @@
+.button input{
+    height: auto;
+    width: auto;
+}
+thead{
+    border: black;
+    border-radius: 2px;
+}
+h1{
+    text-align: center;
+}
